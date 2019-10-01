@@ -36,7 +36,7 @@ eureka:
     instance-id: ${spring.application.name}:${server.port} #标识eureka中的服务名称
     prefer-ip-address: true
 emp:
-  name: rose
+  name: andy
 ---
 server:
   port: 8001
